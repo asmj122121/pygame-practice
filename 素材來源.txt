@@ -1,0 +1,7 @@
+furandoru.png : https://thwiki.cc/index.php?title=%E6%96%87%E4%BB%B6:THBWiki-LOGO-%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2.png&setlang=zh
+
+rumia.png : http://dottersfarm.web.fc2.com/material/charachip/toho01.html#kouma
+
+background3.png : https://www.crazyvector.com/%E5%A5%87%E5%B9%BB%E7%A7%91%E5%B9%BB%E7%81%AB%E6%98%9F%E4%BA%BA%E9%81%8A%E6%88%B2%E8%83%8C%E6%99%AF%E5%9C%96%E7%B4%A0%E6%9D%90%E4%B8%8B%E8%BC%89%EF%BC%8C%E8%90%AC%E7%94%A8%E7%9A%84%E6%8F%92%E5%9C%96.html
+
+bgm.mp3 : https://www.youtube.com/watch?v=ssdcX1vVBTo
